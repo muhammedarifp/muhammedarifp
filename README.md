@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hello, I'm Muhammed Arif, a passionate Go (Golang) developer based India. I have a strong enthusiasm for creating efficient and reliable software solutions. My journey in the world of programming began when [share a brief story of how you got started].
+Hello, I'm Muhammed Arif, a passionate Go (Golang) developer based India. I have a strong enthusiasm for creating efficient and reliable software solutions.
 
 ### 🚀 My Skills
 
@@ -11,7 +11,7 @@ Hello, I'm Muhammed Arif, a passionate Go (Golang) developer based India. I have
 
 ### 🌱 Currently Learning
 
-I'm always eager to expand my knowledge and stay up-to-date with the latest trends in the software development industry. Currently, I'm exploring [mention what you are currently learning or interested in].
+I'm always eager to expand my knowledge and stay up-to-date with the latest trends in the software development industry. Currently, I'm exploring Golang, Databases, Microservices, Rpc and rpc frameworks like Grpc And more backend frameworks.
 
 ### 🔗 Connect with Me
 
