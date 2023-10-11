@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name]! <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher-vector.png" width="40"></h1>
+<h1 align="center">Hi there, I'm Muhammed Arif! <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher-vector.png" width="40"></h1>
 
 I'm a passionate Golang developer with a love for all things code. If I'm not busy crafting high-performance microservices, I'm probably kicking a football on the field.
 
