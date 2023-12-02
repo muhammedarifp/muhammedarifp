@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenNpaTF1OXdsMmtxeDVnaXI3YmJjeHloZHc4dGdpd244anczenl2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif"  />
 </div>
 
 ###
@@ -66,9 +66,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedarifp&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedarifp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=muhammedarifp&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedarifp&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=muhammedarifp&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="100" alt="streak graph"  />
 </div>
 
 ###
@@ -77,7 +76,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=muhammedarif0100&theme=merko" alt="Layout with last medium posts"  />
 </div>
 
