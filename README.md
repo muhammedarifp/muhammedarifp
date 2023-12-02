@@ -1,49 +1,84 @@
-<h1 align="center">Hi there, I'm Muhammed Arif! <img src="https://raw.githubusercontent.com/golang-samples/gopher-vector/master/gopher-vector.png" width="40"></h1>
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-I'm a passionate Golang developer with a love for all things code. If I'm not busy crafting high-performance microservices, I'm probably kicking a football on the field.
+###
 
-<img align="right" src="https://camo.githubusercontent.com/baff812e25d6e450011f1d07bfb6bd77297e181da82673c5101c01e0f3f3348a/68747470733a2f2f69312e77702e636f6d2f74656e6e657861732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31302f676f6c616e672d776861742e676966" width="300" height="auto">
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+</div>
 
-## 🔧 Technologies & Tools
+###
 
-I'm proficient with a wide range of technologies and tools, including:
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=muhammedarifp.muhammedarifp&"  />
+</div>
 
-- <img src="https://img.icons8.com/color/48/000000/golang.png" width="20" height="20"/> **Go (Golang)**: My go-to language for building robust software.
-- <img src="https://img.icons8.com/color/48/000000/docker.png" width="20" height="20"/> **Docker**: Containerization for easy deployment.
-- <img src="https://img.icons8.com/color/48/000000/kubernetes.png" width="20" height="20"/> **Kubernetes**: Orchestrating containers in style.
-- <img src="https://img.icons8.com/color/48/000000/postgresql.png" width="20" height="20"/> **PostgreSQL**: Storing and managing data.
-- <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="20" height="20"/> **AWS**: Powering my cloud infrastructure.
-- <img src="https://img.icons8.com/color/48/000000/git.png" width="20" height="20"/> **Git**: Keeping my code versioned.
-- <img src="https://img.icons8.com/color/48/000000/visual-studio-code.png" width="20" height="20"/> **Visual Studio Code**: My trusty code editor.
+###
 
+<h1 align="center">hey there 👋</h1>
 
-## 📜 My Projects
+###
 
-(Projects will be listed here soon)
+<h3 align="left">👩‍💻  About Me</h3>
 
+###
 
-## 📝 Blog & Articles
+<p align="left">👋 Hi, I'm MUHAMMED ARIF P, a Software Engineer based in India.<br><br>- 🔭 Currently coding my way through projects as a Golang Dev.<br>- 📚 Always expanding my tech toolkit, currently exploring Go.<br>- ⚡ In my free time, I'm likely crafting code, sipping coffee, or both! ☕</p>
 
-I love sharing my thoughts and insights on various tech topics through my writing. You can find my articles on:
+###
 
-- [Medium](https://medium.com/@muhammedarif0100): A collection of in-depth articles on technology, programming, and more.
-- [Dev.to](https://dev.to/muhammedarifp): Engaging posts about my experiences and learnings in the tech world.
+<h3 align="left">🛠 Language and tools</h3>
 
+###
 
-## 📫 Get in Touch
-<a href="https://www.linkedin.com/in/muhammed-arifp/">
-  <img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
-</a>
-<a href="mailto:muhammedarifofficial@gmail.com">
-  <img align="left" alt="Email" width="30px" src="https://img.icons8.com/color/48/000000/email.png" />
-</a>
-<a href="https://www.instagram.com/arifu_00/">
-  <img align="left" alt="Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
-</a>
+<div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="go logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="30" alt="nginx logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=black&style=for-the-badge" height="30" alt="rabbitmq logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" alt="kubernetes logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" alt="googlecloud logo"  />
+</div>
 
-<br>
+###
 
-## ⚡ Fun Fact
-I'm not just a code wizard; I'm also a football fanatic! 🏈 You can often find me on the field, weaving code and strategy together.
+<h3 align="left">🔥   My Stats :</h3>
 
-Thanks for stopping by my GitHub! 😄
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedarifp&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedarifp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=muhammedarifp&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="left">🚀 Fresh Medium Takes 📰</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=muhammedarif0100&theme=merko" alt="Layout with last medium posts"  />
+</div>
+
+###
